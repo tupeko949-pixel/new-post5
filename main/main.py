@@ -1,1 +1,1 @@
-print("Line from MAIN")
+print("Line from CONFLICT-TEST")
